@@ -74,6 +74,10 @@ body {
 }
 
 .cartao__conteudo__resposta {
+    .cartao__conteudo__resposta{
+        transform: rotateY(180deg);
+        background-color: rdba(0, 244, 191, 0.2);
+    }
     transform: rotateY(180deg);
 }
 
