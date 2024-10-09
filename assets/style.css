@@ -1,7 +1,7 @@
 :root {
-    --text-color: #000000;
-    --card-front-color: #79b5ff;
-    --card-back-color: #ecdc45;
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
@@ -83,7 +83,7 @@ body {
 
 footer {
     background-color: black;
-    color: rgb(96, 173, 7);
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -103,7 +103,7 @@ footer p {
     }
 
     .cartao {
-        flex: 1 0 calc(100% - 1rem);
+        flex: 1 0 calc(100% - 1rem)
     }
 
     .cartao__conteudo h3 {
