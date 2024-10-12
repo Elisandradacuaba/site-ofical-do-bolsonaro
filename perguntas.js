@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'fim',
-    'obrigado por ter lido ate aqui agr vire e tera uma surpresa',
-    'chegou o estourador de buceta'
+    'oque significa bolsonaro?',
+    'amor gratidao e felicidade e bondade'
 )
